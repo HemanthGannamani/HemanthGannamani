@@ -62,6 +62,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemanthGannamani&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="HemanthGannamani's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthGannamani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthGannamani&theme=radical&hide_border=true" alt="HemanthGannamani's GitHub Streak" />
 </p>
+
