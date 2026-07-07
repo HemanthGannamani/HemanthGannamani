@@ -62,6 +62,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthGannamani&theme=radical&hide_border=true" alt="HemanthGannamani's GitHub Streak" />
+  <a href="https://github.com/HemanthGannamani">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemanthGannamani&theme=radical&hide_border=true" alt="HemanthGannamani's GitHub Streak" />
+  </a>
 </p>
 
