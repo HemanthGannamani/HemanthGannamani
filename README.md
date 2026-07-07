@@ -19,7 +19,7 @@
 * 💼 **Currently working on:** Mobile & Web Applications
 * 🌱 **Currently learning:** Advanced architecture and new frameworks
 * 👯 **Looking to collaborate on:** Open-source projects or interesting ideas in Mobile/Web Dev
-* 💬 **Ask me about:** Core Java (Collections), REST APIs, Flutter, React, HTML/CSS/JS, Backend Services
+* 💬 **Ask me about:** Core Java (Collections), REST APIs, SpringBoot Microservices, Flutter, React, HTML/CSS/JS, Backend Services
 * 📫 **How to reach me:** hemanthgannamani@gmail.com
 
 ---
