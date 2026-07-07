@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hemanth Gannamani</h1>
+<h3 align="center">A passionate developer building high-quality software.</h3>
 
-<!--
-**HemanthGannamani/HemanthGannamani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemanthgan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:hemanthgannamani@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 💼 **Currently working on:** Mobile & Web Applications
+* 🌱 **Currently learning:** Advanced architecture and new frameworks
+* 👯 **Looking to collaborate on:** Open-source projects or interesting ideas in Mobile/Web Dev
+* 💬 **Ask me about:** Flutter, React, HTML/CSS/JS, Backend Services
+* 📫 **How to reach me:** hemanthgannamani@gmail.com
+
+---
+
+## 🚀 Top Projects
+
+| Project Name | Description | Tech Stack | Live Demo / Repo |
+|---|---|---|---|
+| **[Employee Management System](https://github.com/HemanthGannamani/employee-management-system)** | A comprehensive system designed to manage employee records, track attendance, and streamline HR workflows. | `Java/Flutter` *(Update if needed)* | [View Repo](https://github.com/HemanthGannamani/employee-management-system) |
+| **[PlayStation Clone / UI](https://github.com/HemanthGannamani/playstation)** | An interactive frontend clone of the PlayStation UI/Store, focusing on smooth animations and user experience. | `React`, `HTML`, `CSS` | [View Repo](https://github.com/HemanthGannamani/playstation) |
+| **[Food Delivery Website](https://github.com/HemanthGannamani/food-delivery-website)** | A full-featured food delivery platform with user ordering, restaurant menus, and cart functionality. | `React`, `Node.js` | [View Repo](https://github.com/HemanthGannamani/food-delivery-website) |
+
+*(Note: Please double-check the repository links if the URLs are slightly different on your account!)*
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemanthGannamani&show_icons=true&theme=radical&hide_border=true" alt="HemanthGannamani's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemanthGannamani&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
