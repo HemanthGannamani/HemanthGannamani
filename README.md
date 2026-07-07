@@ -28,9 +28,9 @@
 
 | Project Name | Description | Tech Stack | Live Demo / Repo |
 |---|---|---|---|
-| **[Employee Management System](https://github.com/HemanthGannamani/employee-management-system)** | A comprehensive system designed to manage employee records, track attendance, and streamline HR workflows. | `Java`, `Flutter` | [View Repo](https://github.com/HemanthGannamani/employee-management-system) |
-| **[PlayStation Clone / UI](https://github.com/HemanthGannamani/playstation)** | An interactive frontend clone of the PlayStation UI/Store, focusing on smooth animations and user experience. | `React`, `HTML`, `CSS` | [View Repo](https://github.com/HemanthGannamani/playstation) |
-| **[Food Delivery Website](https://github.com/HemanthGannamani/food-delivery-website)** | A full-featured food delivery platform with user ordering, restaurant menus, and cart functionality. | `React`, `Node.js` | [View Repo](https://github.com/HemanthGannamani/food-delivery-website) |
+| **[Employee Management System](https://github.com/HemanthGannamani/employee-management-system)** | A comprehensive system designed to manage employee records, track attendance, and streamline HR workflows. | `Java`, `Reactjs` | [View Repo](https://github.com/HemanthGannamani/employee-management-system) |
+| **[PlayStation ](https://github.com/HemanthGannamani/playstation)** | An interactive frontend clone of the PlayStation UI/Store, focusing on smooth animations and user experience. | `Flutter`, `Dart`, `Node.js`, `Express.js`, `FireBase` | [View Repo](https://github.com/HemanthGannamani/playstation) |
+| **[Food Delivery Website](https://github.com/HemanthGannamani/food-delivery-website)** | A full-featured food delivery platform with user ordering, restaurant menus, and cart functionality. | `React`, `Redux Toolkit` | [View Repo](https://github.com/HemanthGannamani/food-delivery-website) |
 
 ---
 
