@@ -38,8 +38,9 @@
 
 <p align="left">
   <!-- Core Java & APIs -->
-  <img src="https://img.shields.io/badge/Core_Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Core Java" />
+  <img src="https://img.shields.io/badge/Core_Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/REST_API-%23005A9C.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Core_Java-%23008B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="SpringBoot Microservices" />
   
   <!-- Web Frontend -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
